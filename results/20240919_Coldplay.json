@@ -1,0 +1,16 @@
+[
+  {
+    "keyword": "Coldplay",
+    "trending_reason": "Trending as Toonami celebrates 25 years of iconic anime.",
+    "score": 1,
+    "reasoning": "The image depicts a group of people, likely a band, but it does not contain any elements related to cats, Coldplay, or the trending reason of Toonami celebrating 25 years of iconic anime. Therefore, it is completely irrelevant to the given theme and should be filtered out.",
+    "image_path": "downloaded_images/coldplay/downloaded_image.png"
+  },
+  {
+    "keyword": "Coldplay",
+    "trending_reason": "Trending as Toonami celebrates 25 years of iconic anime.",
+    "score": 1,
+    "reasoning": "The image depicts a live performance by a musician, which is not directly related to the keyword 'Coldplay' or the trending reason of Toonami celebrating 25 years of iconic anime. There are no visible cat motifs or any elements that connect to the theme of the game or the trending topic.",
+    "image_path": "downloaded_images/coldplay/downloaded_image.png"
+  }
+]

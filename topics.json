@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "keyword": "Telegram",
+      "trending_reason": "Trending as discussions around digital privacy intensify globally."
+    },
+    {
+      "id": 2,
+      "keyword": "DOGE",
+      "trending_reason": "Trending as Dogecoin futures hit a record $1 billion, riding the wave of Bitcoin's rally."
+    },
+    {
+      "id": 3,
+      "keyword": "AppleEvent",
+      "trending_reason": "Apple gears up to unveil new innovations featuring the iPhone 16 and more."
+    },
+    {
+      "id": 4,
+      "keyword": "GRAMMYs",
+      "trending_reason": "Trending as music's biggest night shines with standout performances and groundbreaking wins at the 2024 Grammy Awards."
+    },
+    {
+      "id": 5,
+      "keyword": "MichaelJackson",
+      "trending_reason": "Trending as we celebrate MJ's musical tour as it brings his legendary performances to cities nationwide."
+    },
+    {
+      "id": 6,
+      "keyword": "CristianoRonaldo",
+      "trending_reason": "Trending as Cristiano Ronaldo shatters YouTube records with his channel's explosive growth."
+    },
+    {
+      "id": 7,
+      "keyword": "Coldplay",
+      "trending_reason": "Trending as Coldplay launches a new leg of their world tour with sold-out shows across Europe."
+    },
+    {
+      "id": 8,
+      "keyword": "Toonami",
+      "trending_reason": "Trending as Toonami celebrates 25 years of iconic anime."
+    },
+    {
+      "id": 9,
+      "keyword": "NASCAR",
+      "trending_reason": "Trending as NASCAR heats up with thrilling overtimes and Logano's win at the Ally 400."
+    },
+    {
+      "id": 10,
+      "keyword": "Prada",
+      "trending_reason": "Trending as Prada unveils Spring/Summer 2024 collection."
+    },
+    {
+      "id": 11,
+      "keyword": "ONEChampionship",
+      "trending_reason": "Trending as ONE Championship returns to the U.S. with high-stakes fights in Denver.",
+      "post_id": 1831693768589779350
+    },
+    {
+      "id": 12,
+      "keyword": "BuyTheDip",
+      "trending_reason": "Trending as investors seize the moment to buy low in tech and crypto markets.",
+      "post_id": 1832418543977017750
+    },
+    {
+      "id": 13,
+      "keyword": "DemonSlayer",
+      "trending_reason": "Trending as Demon Slayer's Hashira Training Arc concludes with epic developments.",
+      "post_id": 1832780935995249106
+    },
+    {
+      "id": 14,
+      "keyword": "USOpenFinal",
+      "trending_reason": "Trending as Jannik Sinner makes history at the US Open, clinching his first title.",
+      "post_id": 1833143331133534386
+    }
+  ]

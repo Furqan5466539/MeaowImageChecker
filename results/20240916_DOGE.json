@@ -1,0 +1,16 @@
+[
+  {
+    "keyword": "DOGE",
+    "trending_reason": "Trending as Dogecoin futures hit a record $1 billion, riding the wave of Bitcoin's rally.",
+    "score": 1,
+    "reasoning": "The image depicts a football player from behind, with no apparent connection to the keyword 'DOGE' or the trending reason related to Dogecoin futures and Bitcoin's rally. There are no elements in the image that relate to cryptocurrency, memes, or cats, making it completely irrelevant to the theme.",
+    "image_path": "downloaded_images/doge/downloaded_image.png"
+  },
+  {
+    "keyword": "DOGE",
+    "trending_reason": "Trending as Dogecoin futures hit a record $1 billion, riding the wave of Bitcoin's rally.",
+    "score": 5,
+    "reasoning": "The image directly features a Dogecoin, which is highly relevant to the keyword 'DOGE' and the reason for trending, as it is related to Dogecoin futures hitting a record $1 billion. The presence of the Dogecoin logo and the text 'wow' on the coin make it an excellent match for the theme.",
+    "image_path": "downloaded_images/doge/downloaded_image.png"
+  }
+]
